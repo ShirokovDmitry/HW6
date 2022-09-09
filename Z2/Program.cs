@@ -33,7 +33,7 @@ else
 }
 
 
-Console.Write("Пересечение: ({0}; ", x, y);
+Console.Write("Пересечение: ({0}; ", x);
 Console.Write("{0}) ", y);
 
 
